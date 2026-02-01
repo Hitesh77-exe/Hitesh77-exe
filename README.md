@@ -11,6 +11,8 @@
 
 
 
+<div align="center">
+
 ### 🛠 Technology Stack
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
@@ -24,7 +26,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
-
 ### 📈 Professional Development
 - DevOps Foundations (TuteDude): CI/CD Pipelines & Containerization
 - Advancing to MLOps: Model Deployment & AI Integration
@@ -32,9 +33,3 @@
 
 ### Additional Interests
 📚 Learning | 💪 Fitness | 🎧 Music
-
-<em>📧 hiteshchakraborty777@gmail.com</em>
-
-</div>
-
-![Snake](https://raw.githubusercontent.com/Hitesh77-exe/Hitesh77-exe/output/github-snake-dark.svg)
