@@ -1,6 +1,15 @@
-<div align="center" style="background: linear-gradient(135deg, #0c0c0c 0%, #1a1a1a 100%); padding: 40px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.3);">
+<div align="center" style="background: linear-gradient(135deg, #0c0c0c 0%, #1a1a1a 100%); padding: 45px; border-radius: 20px; box-shadow: 0 8px 32px rgba(0,0,0,0.4); margin: 20px 0;">
+  
+  <h1 style="font-family: 'Fira Code', monospace; color: #FFFFFF; font-size: 2.6em; margin: 0 0 15px 0; letter-spacing: 2px; text-shadow: 0 0 40px #8B00FF, 0 0 60px #8B00FF, 0 0 80px #4B0082; font-weight: 900; background: linear-gradient(90deg, #FFFFFF 0%, #8B00FF 50%, #FFFFFF 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
+     Welcome Wanderer🧙🏽‍♂️
+  </h1>
+  <p style="color: #666666; font-family: 'Fira Code', monospace; font-size: 0.95em; margin: 0; letter-spacing: 0.5px; font-style: italic;">
+    Crafting Scalable Systems • Bridging Code & Cognition • Night Owl Coder
+  </p>
+  
+</div>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Hitesh;DevOps+→+MLOps+Track;Adaptive+Learner;2nd-yr+CS+%7C+GeBBS+AR" alt="Typing SVG" />
+
 
 ### 🛠 Technology Stack
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
