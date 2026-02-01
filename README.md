@@ -33,3 +33,9 @@
 
 ### Additional Interests
 📚 Learning | 💪 Fitness | 🎧 Music
+
+<em>📧 hiteshchakraborty777@gmail.com</em>
+
+![Snake](https://raw.githubusercontent.com/Hitesh77-exe/Hitesh77-exe/output/github-snake-dark.svg)
+
+</div>
